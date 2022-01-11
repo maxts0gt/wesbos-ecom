@@ -1,5 +1,11 @@
+import Page from '../components/Page';
+
 function IndexPage() {
-  return <Page>Hello World</Page>;
+  return (
+    <Page>
+      <p>Hello World</p>
+    </Page>
+  );
 }
 
 export default IndexPage;
