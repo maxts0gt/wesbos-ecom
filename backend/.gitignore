@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 .keystone/
+.keystone*
+.keystone
 
 # testing
 /coverage
